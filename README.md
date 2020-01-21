@@ -34,7 +34,7 @@ A clone of the Yelp app with basic layout and functionalities using Yelp API.
 
 A clone of the Instagram app with basic layout and functionalities.
 
-<img src='https://github.com/kelvinluime/initgram?raw=True' />
+<img src='https://github.com/kelvinluime/initgram/blob/master/initgram-walkthrough.gif?raw=True' />
 
 [More details](https://github.com/kelvinluime/initgram)
 
